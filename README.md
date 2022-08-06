@@ -1,2 +1,2 @@
-# post-reccommdation
- This is a post reccomandation model.
+# post-recommendation
+ This is a post recommendation model.
